@@ -12,3 +12,9 @@ This link contains Linux commands and its description. It will help you remember
 
 3. [Django Documentation](https://docs.djangoproject.com/en/4.2/)<br>
 This link contains tutorials and detail description to help you understand Django more.
+
+4. [Encryption and Decription Documentation](https://docs.oracle.com/cd/E19047-01/sunscreen151/806-5397/i996724/)<br>
+This link explains the details and helps you understand about encryption and decryption.
+
+5. [Advantages of Operating System](https://www.scaler.com/topics/advantages-of-operating-system/)<br>
+This link shares the details about operating system advantages and disadvantages.
