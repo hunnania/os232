@@ -24,3 +24,6 @@ Fun facts to help you know more about Windows.
 
 7. [Cyber Security Career Paths](https://www.coursera.org/articles/cybersecurity-career-paths)<br>
 Gives examples of cyber security career paths and how to get started.
+
+8. [Timeline of Operating System](https://www.javatpoint.com/history-of-operating-system)<br>
+Tells you what operating systems humans use throughout the year.
