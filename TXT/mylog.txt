@@ -1,6 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 20 L05 Quiz related including studying
+ZCZC W05 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W05 5 L41 TXT/mylog.txt related.
+ZCZC W05 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 120 L70 Studying for other courses.
+ZCZC W05 100 L73 Gaming including Board Games.
+ZCZC W05 100 L81 Listening: Radio, Music, etc.
 ZCZC W04 15 L14 Assignment #04
 ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 60 L05 Quiz related including studying
