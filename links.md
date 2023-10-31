@@ -28,5 +28,8 @@ Gives examples of cyber security career paths and how to get started.
 8. [Timeline of Operating System](https://www.javatpoint.com/history-of-operating-system)<br>
 Tells you what operating systems humans use throughout the year.
 
-8. [PicoCTF](https://picoctf.org/)<br>
+9. [PicoCTF](https://picoctf.org/)<br>
 Helps you practice challenges about cybersecurity (beginner friendly!).
+
+10. [Python os.fork()](https://www.geeksforgeeks.org/python-os-fork-method/)<br>
+Explains about the os.fork() method in Python

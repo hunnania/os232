@@ -1,6 +1,13 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W06 15 L16 Assignment #06
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 120 L70 Studying for other courses.
+ZCZC W06 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W06 240 L81 Listening: Radio, Music, etc.
+ZCZC W06 360 L84 Relax, Rest, Nap, and Sleep
 ZCZC W05 30 L15 Assignment #05
 ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 20 L05 Quiz related including studying
