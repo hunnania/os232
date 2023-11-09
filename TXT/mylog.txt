@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W07 45 L17 Assignment #07
+ZCZC W07 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W07 5 L41 TXT/mylog.txt related.
+ZCZC W07 10 L64 Helping a friend (OS related problem)
+ZCZC W07 120 L70 Studying for other courses.
+ZCZC W07 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W06 15 L16 Assignment #06
 ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 5 L03 GitHub and git related, including commit, push, pull

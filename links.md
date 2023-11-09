@@ -33,3 +33,6 @@ Helps you practice challenges about cybersecurity (beginner friendly!).
 
 10. [Python os.fork()](https://www.geeksforgeeks.org/python-os-fork-method/)<br>
 Explains about the os.fork() method in Python
+
+11. [Threads and Concurrency](https://www.omscs-notes.com/operating-systems/threads-and-concurrency/)<br>
+Explains about threads in operating systems
