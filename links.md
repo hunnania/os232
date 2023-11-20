@@ -36,3 +36,6 @@ Explains about the os.fork() method in Python
 
 11. [Threads and Concurrency](https://www.omscs-notes.com/operating-systems/threads-and-concurrency/)<br>
 Explains about threads in operating systems
+
+12. [LFS for assignment W08](https://riorio805.github.io/os232/NOTES/lfsch1-5.html)<br>
+This link helped me to do assignment W08 about LFS.
